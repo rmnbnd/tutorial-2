@@ -1,2 +1,2 @@
-# tutorial-2
+# Tutorial 2 :)
 Let's practice with git
